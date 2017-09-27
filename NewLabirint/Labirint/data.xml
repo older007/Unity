@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<Save xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <data>
+    <Data>
+      <name />
+      <time>0 : 0 : 6</time>
+      <coins>0</coins>
+      <dieReson>Die by Zombie</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name />
+      <time>0 : 0 : 21</time>
+      <coins>3</coins>
+      <dieReson>Die by Zombie</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name />
+      <time>0 : 0 : 6</time>
+      <coins>0</coins>
+      <dieReson>Die by Zombie</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name />
+      <time>0 : 0 : 6</time>
+      <coins>1</coins>
+      <dieReson>Exit by User</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name />
+      <time>0 : 0 : 15</time>
+      <coins>0</coins>
+      <dieReson>Exit by User</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name />
+      <time>0 : 0 : 26</time>
+      <coins>2</coins>
+      <dieReson>Exit by User</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+    <Data>
+      <name>Player</name>
+      <time>0 : 0 : 0</time>
+      <coins>0</coins>
+      <dieReson>Exit by User</dieReson>
+      <date>04 August 2017</date>
+    </Data>
+  </data>
+</Save>>e>
